@@ -1,0 +1,9 @@
+requests
+pandas
+ta
+numpy
+matplotlib
+python-telegram-bot==20.0
+openai
+python-dotenv
+opencv-python
